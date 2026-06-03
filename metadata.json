@@ -1,0 +1,6 @@
+{
+  "name": "AgroMarket Cruz",
+  "description": "Tu tienda premium de agricultura urbana y cultivo ecológico en casa. Consigue fibra de coco, semillas orgánicas y humus de lombriz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
